@@ -3,7 +3,7 @@
 
 # Muhammad Suleman
 
-### **Hybrid IT & Cybersecurity Analyst | Full-Stack Digital Solution Expert**
+### **Hybrid IT & Cybersecurity Analyst | Full-Stack Digital Solutions Expert**
 
 
 
@@ -71,6 +71,6 @@ Here are some of the key projects I've developed, demonstrating my diverse techn
 
 ### **Connect with Me**
 
-* **LinkedIn:** (https://www.linkedin.com/in/muhammad-suleman-91b166271)
+* **LinkedIn:** [https://www.linkedin.com/in/muhammad-suleman-91b166271]   
 * **Email:** [muhammadsulemantechgeek@gmail.com]
 * **Phone:** +92-3208725158
